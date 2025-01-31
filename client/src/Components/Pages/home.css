@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Shrikhand&display=swap');
+.body-home{
+    background-image: url(../assets/Home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.item__nav{
+    height: 120px;
+    width: 100vw;
+    background-color: #f69024;
+    display: flex;
+
+}
+.diseño_logo{
+    height: 100px;
+    width: auto;
+    margin:auto;
+    margin-left: 40px;
+    border-radius: 100%;
+}
+.h1_del_home{
+    font-family: "Shrikhand", serif;
+    font-style: normal;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-right: 620px;
+}
+.Boton__contenedor{
+    height: 120px;
+    width: auto;
+    display: flex;
+}
+.home_frutas{
+    height: 40px;
+    width: 120px;
+    margin: auto;
+    border-radius: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: #e13333;
+}
+.home_frutas:hover{
+    background-color: #f5f222;
+    box-shadow: 0 0 10px #000000;
+}
